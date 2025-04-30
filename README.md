@@ -47,6 +47,7 @@ $ npm install
 $ npm run dev
 # Start frontend 
 $ npm start
+http://localhost:3000
 ```
 
 
